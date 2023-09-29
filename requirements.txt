@@ -1,0 +1,14 @@
+numpy
+pandas
+torch
+huggingface_hub
+transformers
+fastapi
+uvicorn
+torchvision 
+torchaudio
+librosa
+gradio
+tqdm
+speechrecognition
+soundfile
